@@ -1,6 +1,7 @@
 
 # single-spa-portal-with-store
 This project was created with the objective of integrating several App in a single SPA page, having communication through a store in the case of Angular and React using (REDUX) and Vue using (VUEX) all centralized in a globalEvent.
+
 It is important to note that the communication of redux with vuex is not yet implemented just the reverse.
 
 
