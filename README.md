@@ -15,7 +15,3 @@ It is important to note that the communication of redux with vuex is not yet imp
 4. Open up http://localhost:9000 in a web browser.
 
 
-
-## Based
-this example is based on [simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example/blob/master/README.md) and
-[single-spa-portal-example](https://github.com/me-12/single-spa-portal-example))
