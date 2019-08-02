@@ -66,6 +66,9 @@ typings/
 # release folders
 release
 
+#package-lock
+*.package-lock.json
+
 # git
 git
 git.pub
